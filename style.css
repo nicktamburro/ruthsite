@@ -9,3 +9,13 @@
 	padding: 0;
 }
 
+#mainText{
+	margin-left: 25%;
+	text-align: center;
+	width: 20%
+}
+
+#bodyRow{
+	margin-top: 2%;
+}
+
