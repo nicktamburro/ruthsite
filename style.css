@@ -5,7 +5,7 @@
 }
 
 #linkRow{
-	margin-left: 50%;
+	margin-left: 20%;
 	padding: 0;
 }
 
@@ -20,14 +20,21 @@
 }
 
 #worksTitle{
-	margin-left: 100%;
+	margin-left: 45%;
 }
 
 .bookCover{
 	margin-left: 100%;
+	margin-top: 5%;
+
 }
 
 #bookBlurb{
-	margin-left: 100%;
+	margin-left: 25%;
+	margin-top: 1%;
+
 }
 
+.navLink{
+	color: black;
+}
