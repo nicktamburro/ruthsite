@@ -4,8 +4,12 @@
 	font-size: 250%;
 }
 
+#ruthTitle{
+	width: 100%;
+}
+
 #linkRow{
-	margin-left: 20%;
+	margin-left: 90%;
 	padding: 0;
 }
 
@@ -23,16 +27,15 @@
 	margin-left: 45%;
 }
 
+
 .bookCover{
 	margin-left: 100%;
 	margin-top: 5%;
-
 }
 
 #bookBlurb{
 	margin-left: 25%;
 	margin-top: 1%;
-
 }
 
 .navLink{
