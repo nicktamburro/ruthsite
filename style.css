@@ -48,6 +48,9 @@ a:active {
 
 }
 
+.card-img-top{
+}
+
 
 
 #mainText{
@@ -70,6 +73,10 @@ a:active {
 	margin-top: 5%;
 	width: 255px;
 	height: 390px;
+}
+
+#bookButton{
+	margin-left: 20%;
 }
 
 #lessing{
