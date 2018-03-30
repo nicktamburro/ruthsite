@@ -1,5 +1,3 @@
-
-
 #ruthTitle{
 	width: 100%;
 }
@@ -7,6 +5,7 @@
 .titleText{
 	margin-left: 170%;
 	width: 100%;
+	text-decoration: none;
 }
 
 #homeLink{
@@ -25,6 +24,30 @@
 #title{
 	width: 100%;
 }
+
+a:link {
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    text-decoration: none;
+}
+
+.jumbotron{
+
+}
+
 
 
 #mainText{
