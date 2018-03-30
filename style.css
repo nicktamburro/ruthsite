@@ -1,17 +1,27 @@
-#ruthName{
-	text-align: center;
-	margin-left: 100%;
-	font-size: 250%;
-}
+
 
 #ruthTitle{
 	width: 100%;
 }
 
-#linkRow{
-	margin-left: 90%;
-	padding: 0;
+.titleText{
+	margin-left: 170%;
+	width: 100%;
 }
+
+#links{
+	min-width: 100%;
+	margin-left: 160%;
+}
+
+#navLinks{
+	color: black;
+}
+
+#title{
+	width: 100%;
+}
+
 
 #mainText{
 	margin-left: 25%;
@@ -38,6 +48,3 @@
 	margin-top: 1%;
 }
 
-.navLink{
-	color: black;
-}
