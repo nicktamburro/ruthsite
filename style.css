@@ -3,9 +3,10 @@
 }
 
 .titleText{
-	margin-left: 170%;
+	margin-left: 135%;
 	width: 100%;
 	text-decoration: none;
+	font-family: 'Cinzel', serif;
 }
 
 #homeLink{
@@ -14,7 +15,7 @@
 
 #links{
 	min-width: 100%;
-	margin-left: 160%;
+	margin-left: 130%;
 }
 
 #navLinks{
