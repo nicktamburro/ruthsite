@@ -9,6 +9,10 @@
 	width: 100%;
 }
 
+#homeLink{
+	color: black;
+}
+
 #links{
 	min-width: 100%;
 	margin-left: 160%;
@@ -41,6 +45,12 @@
 .bookCover{
 	margin-left: 100%;
 	margin-top: 5%;
+	width: 255px;
+	height: 390px;
+}
+
+#lessing{
+	margin-top: 1%;
 }
 
 #bookBlurb{
