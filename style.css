@@ -18,6 +18,12 @@
 	margin-left: 85%;
 }
 
+body{
+	background-image: url("media/room.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .navLinks{
 	color: black;
 	font-family: 'Cinzel', serif;
@@ -59,8 +65,10 @@ a:active {
     text-decoration: none;
 }
 
-.jumbotron{
-
+#jumbo{
+		background: rgba(260, 260, 260, 0.6);
+		margin-left: 5%;
+		margin-right: 5%;
 }
 
 .card-img-top{
