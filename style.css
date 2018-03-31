@@ -36,7 +36,11 @@ body{
 }
 
 .bookLinks{
-	padding: 0;
+	padding-right: 0;
+}
+
+#bioLink{
+	margin-right: -3%;
 }
 
 .navLinks:hover{
