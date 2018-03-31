@@ -3,7 +3,7 @@
 }
 
 .titleText{
-	margin-left: 100%;
+	margin-left: 85%;
 	width: 100%;
 	text-decoration: none;
 	font-family: 'Cinzel', serif;
@@ -28,6 +28,11 @@ body{
 	color: black;
 	font-family: 'Cinzel', serif;
 	font-size: 125%;
+	padding: none;
+}
+
+.bookLinks{
+	padding: 0;
 }
 
 .navLinks:hover{
@@ -69,6 +74,13 @@ a:active {
 		background: rgba(260, 260, 260, 0.6);
 		margin-left: 5%;
 		margin-right: 5%;
+		margin-top: 5%;
+		margin-bottom: 5%;
+}
+
+.card{
+	margin-left: 17%;
+	margin-bottom: 5%;
 }
 
 .card-img-top{
