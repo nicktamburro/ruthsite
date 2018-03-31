@@ -31,6 +31,10 @@ body{
 	padding: none;
 }
 
+#navStyle{
+	background: rgba(260, 260, 260, 0.6);
+}
+
 .bookLinks{
 	padding: 0;
 }
