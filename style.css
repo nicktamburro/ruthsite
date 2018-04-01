@@ -35,6 +35,11 @@ body{
 	background: rgba(260, 260, 260, 0.6);
 }
 
+.cardLinks{
+	color: white;
+	margin-left: 35%;
+}
+
 .bookLinks{
 	padding-right: 0;
 }
@@ -87,8 +92,9 @@ a:active {
 }
 
 .card{
-	margin-left: 17%;
-	margin-bottom: 5%;
+	background: rgba(260, 260, 260, 0.6);
+	margin-left: 55%;
+
 }
 
 .card-img-top{
