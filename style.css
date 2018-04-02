@@ -92,7 +92,16 @@ a:active {
 		margin-right: 5%;
 		margin-top: 5%;
 		margin-bottom: 5%;
-		
+
+}
+
+.ruthHeading{
+	font-family: 'Cinzel', serif;
+}
+
+.ruthP{
+	font-family: 'Lora', serif;
+
 }
 
 .card{
