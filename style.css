@@ -3,12 +3,17 @@
 }
 
 .titleText{
-	margin-left: 85%;
+	margin-left: 0;
+	padding: 0;
 	/*color: #714a84;*/
 	color: #825599;
 	width: 100%;
 	text-decoration: none;
 	font-family: 'Cinzel', serif;
+}
+
+.container-fluid{
+	width: 100%;
 }
 
 /*#homeLink{
@@ -17,7 +22,7 @@
 
 #links{
 	min-width: 100%;
-	margin-left: 85%;
+	margin-left: 0;
 }
 
 
@@ -27,11 +32,15 @@ body{
 	background-size: cover;
 }
 
+nav{
+	width: 110%;
+}
+
 
 .navLinks{
 	color: #825599;
 	font-family: 'Cinzel', serif;
-	font-size: 125%;
+	font-size: 100%;
 	padding: none;
 }
 
@@ -39,17 +48,18 @@ body{
 	background: rgba(260, 260, 260, 0.6);
 }
 
-.cardLinks{
+/* .cardLinks{
 	color: white;
 	margin-left: 35%;
-}
+} */
 
 .bookLinks{
 	padding-right: 0;
+	width: 20%;
 }
 
 #bioLink{
-	margin-right: -3%;
+	margin-right: 0;
 }
 
 .navLinks:hover{
@@ -126,19 +136,19 @@ a:active {
 
 }
 
-.card{
+/* .card{
 	background: rgba(260, 260, 260, 0.6);
 	margin-left: 55%;
 
 }
-
-.card-img-top{
-}
+ */
+/* .card-img-top{
+} */
 
 
 
 #mainText{
-	margin-left: 25%;
+	margin-left: 0;
 	text-align: center;
 	width: 20%
 }
@@ -148,24 +158,24 @@ a:active {
 }
 
 #worksTitle{
-	margin-left: 45%;
+	margin-left: 0;
 }
 
 .bioPic{
-	margin-left: 75%;
+	margin-left: 0;
 	margin-top: 5%;
 	height: 390px;
 }
 
 .bookCover{
-	margin-left: 100%;
+	margin-left: 0;
 	margin-top: 5%;
 	width: 255px;
 	height: 390px;
 }
 
 #bookButton{
-	margin-left: 14.5%;
+	margin-left: 0;
 	margin-top: 1%;
 	background-color: #825599;
 	border: none;
@@ -180,14 +190,14 @@ a:active {
 
 #firstBookButton{
 	margin-top: -5%;
-	margin-left: 14.5%;
+	margin-left: 0;
 	background-color: #825599;
 	border: none;
 }
 
 #secondBookButton{
 	margin-top: -1%;
-	margin-left: 14.5%;
+	margin-left: 0;
 	background-color: #825599;
 	border: none;
 }
@@ -197,9 +207,23 @@ a:active {
 }
 
 #bookBlurb{
-	margin-left: 25%;
+	margin-left: 0;
 	margin-top: 1%;
 }
 
 button{
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	#ruthTitle{
+
+	}
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+	#ruthTitle{
+	color: red;
+	}
 }
