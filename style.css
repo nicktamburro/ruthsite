@@ -127,15 +127,15 @@ a:active {
 }
 
 #bookButton{
-	margin-left: 15%;
+	margin-left: 14.5%;
 	margin-top: 1%;
 	background-color: #ca95e5;
 	border: none;
 }
 
 #firstBookButton{
-	margin-top: -2%;
-	margin-left: 15%;
+	margin-top: -10%;
+	margin-left: 14.5%;
 	background-color: #ca95e5;
 	border: none;
 }
