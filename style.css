@@ -44,6 +44,13 @@ nav{
 	padding: none;
 }
 
+.navLinks2{
+	color: #825599;
+	font-family: 'Cinzel', serif;
+	font-size: 100%;
+	padding: none;
+}
+
 #navStyle{
 	background: rgba(260, 260, 260, 0.6);
 }
@@ -56,6 +63,15 @@ nav{
 .bookLinks{
 	padding-right: 0;
 	width: 20%;
+	margin: 0;
+	padding: 0;
+}
+
+.bookLinks2{
+	padding-right: 0;
+	width: 20%;
+	margin: 0;
+	padding: 0;
 }
 
 #bioLink{
@@ -214,6 +230,8 @@ a:active {
 button{
 }
 
+
+
 /* Large desktop */
 @media (min-width: 1200px) {
 	#ruthTitle{
@@ -227,3 +245,13 @@ button{
 	color: red;
 	}
 }
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+
