@@ -10,6 +10,19 @@
 	width: 100%;
 	text-decoration: none;
 	font-family: 'Cinzel', serif;
+	line-height: 0.9;
+}
+
+#authorText{
+	margin-left: 0;
+	padding: 0;
+	/*color: #714a84;*/
+	color: #825599;
+	width: 100%;
+	text-decoration: none;
+	font-family: 'Cinzel', serif;
+	font-size: 70%;
+	margin-top: 1%;
 }
 
 .container-fluid{
