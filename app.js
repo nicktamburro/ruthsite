@@ -10,6 +10,7 @@ if ( $(window).width() > 739) {
 else {
 	$("#links").hide();
   	$("#close").hide();
+  	$("#newBook").hide();
 
 		$("#menu").click(function(event){
 			event.preventDefault();
