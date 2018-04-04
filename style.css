@@ -28,7 +28,7 @@
 
 body{
 	background: #EDEBED url("media/room.png");
-	background-repeat: no-repeat;
+		background-repeat: no-repeat;
 	background-size: cover;
 }
 
@@ -44,6 +44,7 @@ nav{
 	padding: none;
 }
 
+
 .navLinks2{
 	color: #825599;
 	font-family: 'Cinzel', serif;
@@ -54,11 +55,6 @@ nav{
 #navStyle{
 	background: rgba(260, 260, 260, 0.6);
 }
-
-/* .cardLinks{
-	color: white;
-	margin-left: 35%;
-} */
 
 .bookLinks{
 	padding-right: 0;
@@ -116,9 +112,6 @@ a:active {
     text-decoration: none;
 }
 
-h1{
-	font-size: 10%;
-}
 
 #jumbo{
 		background: rgba(260, 260, 260, 0.7);
@@ -184,7 +177,8 @@ h1{
 .bioPic{
 	margin-left: 0;
 	margin-top: 5%;
-	height: 390px;
+	height: 100%;
+	width: 100%;
 }
 
 .bookCover{
@@ -228,7 +222,7 @@ h1{
 
 #bookBlurb{
 	margin-left: 0;
-	margin-top: 1%;
+	margin-top: 5%;
 }
 
 button{
