@@ -152,6 +152,14 @@ a:active {
 		margin-bottom: 5%;
 }
 
+#worksJumbo{
+		background: rgba(260, 260, 260, 0.7);
+		margin-left: 10%;
+		margin-right: 10%;
+		margin-top: 1%;
+		margin-bottom: 5%;
+}
+
 #jumboForm{
 		background: rgba(260, 260, 260, 0.7);
 		margin-left: 5%;
@@ -214,23 +222,31 @@ a:active {
 }
 
 .bookCover{
-	margin-left: 0;
-	margin-top: 5%;
-	height: 100%;
-	width: 100%;
+	margin-left: 5%;
+	margin-top: 1%;
+	height: 90%;
+	width: 90%;
 	
 }
 
 #bookButton{
-	margin-left: 7%;
-	margin-top: 10%;
+	margin-left: 12%;
+	margin-top: -15%;
 	background-color: #825599;
 	border: none;
 	width: 100%;
 }
 
 #purchaseButton{
-	margin-left: 7%;
+	margin-left: 12%;
+	margin-top: 3%;
+	background-color: #825599;
+	border: none;
+	width: 100%;
+}
+
+#purchaseMLA{
+	margin-left: 14%;
 	margin-top: 3%;
 	background-color: #825599;
 	border: none;
