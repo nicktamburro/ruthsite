@@ -1,3 +1,8 @@
+.page{
+	overflow: hidden;
+	height: 100%;
+}
+
 #ruthTitle{
 	width: 100%;
 }
@@ -58,9 +63,10 @@
 
 
 body{
-	background: #EDEBED url("media/room.png");
+	background: url("media/room.png");
 		background-repeat: no-repeat;
 	background-size: cover;
+	background-color: #825599;
 }
 
 nav{
@@ -78,6 +84,11 @@ nav{
 
 .navLinks2{
 	color: #825599;
+	/*border: solid 1px #825599;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: none;
+	padding-top: none;*/
 	font-family: 'Cinzel', serif;
 	font-size: 100%;
 	padding: none;
