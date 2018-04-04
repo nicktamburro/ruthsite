@@ -25,6 +25,12 @@
 	margin-top: 1%;
 }
 
+.heading{
+	color: white;
+	margin-left: 35%;
+	font-family: 'Cinzel', serif;
+}
+
 .container-fluid{
 	width: 100%;
 }
@@ -130,7 +136,7 @@ a:active {
 		background: rgba(260, 260, 260, 0.7);
 		margin-left: 5%;
 		margin-right: 5%;
-		margin-top: 5%;
+		margin-top: 1%;
 		margin-bottom: 5%;
 }
 
