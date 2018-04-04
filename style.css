@@ -36,11 +36,11 @@
 }
 
 #worksHeading{
-	margin-left: 35%;
+	margin-left: 38%;
 }
 
 #contactHeading{
-	margin-left: 33%;
+	margin-left: 35%;
 }
 
 .container-fluid{
@@ -216,34 +216,30 @@ a:active {
 .bookCover{
 	margin-left: 0;
 	margin-top: 5%;
-	width: 255px;
-	height: 390px;
+	height: 100%;
+	width: 100%;
+	
 }
 
 #bookButton{
-	margin-left: 0;
-	margin-top: 1%;
+	margin-left: 7%;
+	margin-top: 10%;
 	background-color: #825599;
 	border: none;
+	width: 100%;
+}
+
+#purchaseButton{
+	margin-left: 7%;
+	margin-top: 3%;
+	background-color: #825599;
+	border: none;
+	width: 100%;
 }
 
 #formButton{
 	margin-left: 0;
 	margin-top: 1%;
-	background-color: #825599;
-	border: none;
-}
-
-#firstBookButton{
-	margin-top: -5%;
-	margin-left: 0;
-	background-color: #825599;
-	border: none;
-}
-
-#secondBookButton{
-	margin-top: -1%;
-	margin-left: 0;
 	background-color: #825599;
 	border: none;
 }
