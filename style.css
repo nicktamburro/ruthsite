@@ -249,7 +249,7 @@ a:active {
 }
 
 #bookButton{
-	margin-left: 0;
+	margin-left: 1%;
 	margin-top: 7%;
 	background-color: #825599;
 	border: none;
@@ -265,7 +265,7 @@ a:active {
 }
 
 #purchaseMLA{
-	margin-left: 0;
+	margin-left: 1%;
 	margin-top: 3%;
 	background-color: #825599;
 	border: none;
