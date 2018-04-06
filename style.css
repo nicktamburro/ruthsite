@@ -343,7 +343,7 @@ button{
 
 #bookButton{
 	margin-left: 1%;
-	margin-top: 15%;
+	margin-top: 3%;
 	background-color: #825599;
 	border: none;
 	width: 100%;
@@ -351,7 +351,7 @@ button{
 
 #purchaseButton{
 	margin-left: 1%;
-	margin-top: -1%;
+	margin-top: 1%;
 	background-color: #825599;
 	border: none;
 	width: 100%;
@@ -359,7 +359,7 @@ button{
 
 #purchaseMLA{
 	margin-left: 1%;
-	margin-top: -1%;
+	margin-top: 1%;
 	background-color: #825599;
 	border: none;
 	width: 100%;
@@ -367,7 +367,7 @@ button{
 
 #bioBlurb{
 	margin-left: 0;
-	margin-top: 0%;
+	margin-top: 3%;
 }
 
 
