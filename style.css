@@ -370,6 +370,32 @@ button{
 	margin-top: 3%;
 }
 
+.heading{
+	color: white;
+	margin-left: 39% ;
+	font-family: 'Cinzel', serif;
+}
+
+#newBookHeading{
+	margin-left: 38%
+}
+
+#worksHeading{
+	margin-left: 44%;
+}
+
+#homeHeading{
+	margin-left: 45%;
+}
+
+#bioHeading{
+	margin-left: 47%;
+}
+
+#contactHeading{
+	margin-left: 40%;
+}
+
 
 
 
