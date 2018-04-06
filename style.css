@@ -288,6 +288,11 @@ a:active {
 	margin-top: 5%;
 }
 
+#bioBlurb{
+	margin-left: 0;
+	margin-top: 5%;
+}
+
 button{
 }
 
@@ -358,6 +363,11 @@ button{
 	background-color: #825599;
 	border: none;
 	width: 100%;
+}
+
+#bioBlurb{
+	margin-left: 0;
+	margin-top: -5%;
 }
 
 
