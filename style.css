@@ -435,26 +435,34 @@ button{
 }
 
 #jumbo{
-		margin-left: 10%;
-		margin-right: 10%;
+		margin-left: 5%;
+		margin-right: 5%;
 		margin-top: 1%;
 		margin-bottom: 5%;
 }
 
 #worksJumbo{
-		margin-left: 10%;
-		margin-right: 10%;
+		margin-left: 5%;
+		margin-right: 5%;
 		margin-top: 1%;
 		margin-bottom: 5%;
 }
 
 #jumboForm{
-		margin-left: 10%;
-		margin-right: 10%;
+		margin-left: 5%;
+		margin-right: 5%;
 		margin-top: 1%;
 		margin-bottom: 5%;
 }
 
+.bioPic{
+	height: 100%;
+	width: 100%;
+}
+
+#bioBlurb{
+	margin-top: -3%;
+}
 
 
 	}
