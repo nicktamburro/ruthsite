@@ -301,7 +301,7 @@ button{
 }
 
 
-
+/*PHONES IN LANDSCAPE MODE.............*/
 
 @media only screen and (min-width: 600px)  {
 
@@ -398,6 +398,8 @@ button{
 
 }
 
+
+/* TABLETS IN PORTRAIT.................................J*/
 @media only screen and (min-width: 760px)  {
 
 .bookLinks{
@@ -432,7 +434,26 @@ button{
 	font-size: 80%;
 }
 
+#jumbo{
+		margin-left: 10%;
+		margin-right: 10%;
+		margin-top: 1%;
+		margin-bottom: 5%;
+}
 
+#worksJumbo{
+		margin-left: 10%;
+		margin-right: 10%;
+		margin-top: 1%;
+		margin-bottom: 5%;
+}
+
+#jumboForm{
+		margin-left: 10%;
+		margin-right: 10%;
+		margin-top: 1%;
+		margin-bottom: 5%;
+}
 
 
 
