@@ -449,8 +449,8 @@ button{
 }
 
 #jumboForm{
-		margin-left: 5%;
-		margin-right: 5%;
+		margin-left: 10%;
+		margin-right: 10%;
 		margin-top: 1%;
 		margin-bottom: 5%;
 }
@@ -462,6 +462,30 @@ button{
 
 #bioBlurb{
 	margin-top: -3%;
+}
+
+#bookButton{
+	margin-left: 1%;
+	margin-top: 3%;
+	background-color: #825599;
+	border: none;
+	width: 40%;
+}
+
+#purchaseButton{
+	margin-left: 1%;
+	margin-top: 3%;
+	background-color: #825599;
+	border: none;
+	width: 40%;
+}
+
+#purchaseMLA{
+	margin-left: 1%;
+	margin-top: 3%;
+	background-color: #825599;
+	border: none;
+	width: 40%;
 }
 
 
