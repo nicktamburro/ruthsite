@@ -396,7 +396,44 @@ button{
 	margin-left: 41%;
 }
 
-
-
-
 }
+
+@media only screen and (min-width: 760px)  {
+
+.bookLinks{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: -20%;
+}
+.navLinks{
+	font-size: 97%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#homeLink{
+	margin-left: -3%;
+}
+
+#bioLink{
+	width: 1%;
+	margin-left: -1%;
+}
+
+#newBookLink{
+	margin-left: -5%;
+}
+
+#worksLink{
+	margin-left: -3%;
+}
+
+#authorText{
+	font-size: 80%;
+}
+
+
+
+
+
+	}
