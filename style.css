@@ -3,6 +3,8 @@
 	height: 100%;
 }
 
+
+
 #ruthTitle{
 	width: 100%;
 }
@@ -406,6 +408,10 @@ button{
 	padding-left: 0px;
 	padding-right: 0px;
 	margin-left: -20%;
+}
+
+.page{
+	height: 110%;
 }
 .navLinks{
 	font-size: 97%;
