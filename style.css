@@ -309,10 +309,7 @@ button{
 /*PHONES IN LANDSCAPE MODE.............*/
 
 @media only screen and (min-width: 600px)  {
-.bioPage{
-	overflow: hidden;
-	height: 500%;
-}
+
 
 .page{
 	height: 100%;
