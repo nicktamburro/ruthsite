@@ -310,6 +310,10 @@ button{
 
 @media only screen and (min-width: 600px)  {
 
+
+.page{
+	height: 100%;
+}
 #jumbo{
 		margin-left: 15%;
 		margin-right: 15%;
@@ -319,7 +323,7 @@ button{
 
 .bioPage{
 	overflow: hidden;
-	height: 500%;
+	height: 100%;
 }
 
 #worksJumbo{
