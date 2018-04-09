@@ -495,3 +495,52 @@ button{
 
 
 	}
+
+
+
+@media only screen and (min-width: 1200px)  {
+
+
+.bioPic{
+	margin-left: 2%;
+	height: 90%;
+	width: 90%;
+}
+
+.bookCover{
+	height: 75%;
+	width: 75%;
+}
+
+#bookButton{
+	margin-left: 9%;
+	margin-top: 3%;
+	background-color: #825599;
+	border: none;
+	width: 75%;
+}
+
+#purchaseButton{
+	margin-left: 9%;
+	margin-top: 3%;
+	background-color: #825599;
+	border: none;
+	width: 75%;
+}
+
+#purchaseMLA{
+	margin-left: 9%;
+	margin-top: 3%;
+	background-color: #825599;
+	border: none;
+	width: 75%;
+}
+
+#jumboForm{
+		margin-left: 20%;
+		margin-right: 20%;
+		margin-top: 1%;
+		margin-bottom: 5%;
+}
+
+}
