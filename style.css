@@ -461,11 +461,11 @@ button{
 }
 
 #bioBlurb{
-	margin-top: -2%;
+	margin-top: -3%;
 }
 
 #bookButton{
-	margin-left: 1%;
+	margin-left: 9%;
 	margin-top: 3%;
 	background-color: #825599;
 	border: none;
@@ -473,7 +473,7 @@ button{
 }
 
 #purchaseButton{
-	margin-left: 1%;
+	margin-left: 9%;
 	margin-top: 3%;
 	background-color: #825599;
 	border: none;
@@ -481,7 +481,7 @@ button{
 }
 
 #purchaseMLA{
-	margin-left: 1%;
+	margin-left: 9%;
 	margin-top: 3%;
 	background-color: #825599;
 	border: none;
