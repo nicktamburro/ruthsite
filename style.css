@@ -3,7 +3,10 @@
 	height: 100%;
 }
 
-
+.bioPage{
+	overflow: hidden;
+	height: 110%;
+}
 
 #ruthTitle{
 	width: 100%;
@@ -314,10 +317,6 @@ button{
 		margin-bottom: 5%;
 }
 
-.page{
-	height: 110%;
-}
-
 #worksJumbo{
 		margin-left: 15%;
 		margin-right: 15%;
@@ -414,9 +413,7 @@ button{
 	margin-left: -20%;
 }
 
-.page{
-	height: 110%;
-}
+
 .navLinks{
 	font-size: 97%;
 	padding-left: 0px;
