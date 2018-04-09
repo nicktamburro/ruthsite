@@ -317,6 +317,11 @@ button{
 		margin-bottom: 5%;
 }
 
+.bioPage{
+	overflow: hidden;
+	height: 200%;
+}
+
 #worksJumbo{
 		margin-left: 15%;
 		margin-right: 15%;
