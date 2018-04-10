@@ -6,6 +6,7 @@
 .bioPage{
 	overflow: hidden;
 	height: 200%;
+	width: 100%;
 }
 
 #ruthTitle{
@@ -323,7 +324,7 @@ button{
 
 .bioPage{
 	overflow: hidden;
-	height: 1000%;
+	height: 100%;
 }
 
 #worksJumbo{
