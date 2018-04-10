@@ -5,8 +5,9 @@
 
 .bioPage{
 	overflow: hidden;
-	height: 200%;
-	width: 100%;
+	height: auto;
+	width: auto;
+	background-size: cover;
 }
 
 #ruthTitle{
