@@ -312,6 +312,12 @@ button{
 
 @media only screen and (min-width: 600px)  {
 
+body{
+	background: url("media/room.png");
+		background-repeat: repeat-y;
+	background-size: cover;
+	background-color: #825599;
+}
 
 .page{
 	height: 100%;
