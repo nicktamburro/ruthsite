@@ -233,6 +233,7 @@ a:active {
 	margin-left: 0;
 	text-align: center;
 	width: 20%
+}
 
 
 #bodyRow{
@@ -244,11 +245,11 @@ a:active {
 }
 
 .bioPic{
-	margin-left: 10%;
-	margin-top: -5%;
+	margin-left: 2%;
+	margin-top: 0;
 	padding: 0;
-	height: 25%;
-	width: 25%;
+	height: 95%;
+	width: 95%;
 }
 
 .bookCover{
