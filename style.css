@@ -356,8 +356,8 @@ body{
 	margin-left: 5%;
 	margin-top: -5%;
 	padding: 0;
-	height: 95%;
-	width: 85%;
+	height: 25%;
+	width: 25%;
 }
 
 .bookCover{
@@ -487,8 +487,8 @@ body{
 }
 
 .bioPic{
-	height: 100%;
-	width: 90%;
+	height: 25%;
+	width: 25%;
 }
 
 #bioBlurb{
@@ -534,8 +534,8 @@ body{
 
 .bioPic{
 	margin-left: 2%;
-	height: 90%;
-	width: 67.5%;
+	height: 25%;
+	width: 25%;
 }
 
 .bookCover{
