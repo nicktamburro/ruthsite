@@ -82,6 +82,7 @@
 
 
 body{
+	height: 0;
 	background: url("media/room.png");
 		background-repeat: no-repeat;
 	background-size: cover;
@@ -312,6 +313,15 @@ button{
 	display: ;
 }
 
+/*PHONES IN PORTRAIT...............................................*/
+@media only screen and (max-width: 600px)  {
+
+	.ruthHeading{
+		margin-top: 15%;
+
+	}
+
+	}
 
 /*PHONES IN LANDSCAPE MODE.............*/
 
